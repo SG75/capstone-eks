@@ -62,7 +62,7 @@ Parameters:
 
     NodeInstanceType:
         Type: String
-        AllowedValues: [t2.medium, t3.small, t3.nano, t3.micro, t3.medium]
+        AllowedValues: [t2.micro]
 
     NodeVolumeSize:
         Type: Number
