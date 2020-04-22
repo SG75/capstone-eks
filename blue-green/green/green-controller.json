@@ -22,7 +22,7 @@
         "containers":[
           {
             "name":"green",
-            "image":"sg75/greenimage",
+            "image":"sg75/green-image:v1",
             "ports":[
               {
                 "name":"http-server",
