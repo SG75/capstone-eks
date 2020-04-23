@@ -4,7 +4,7 @@ Capstone Project for the Udacity cloud DevOps Engineer Nanodegree
 ###### prerequisites 
 * AWS account
 * github account
-* ec2 instance with jenkins with Blue ocean plugin, docker, tidy , hadolint and awscli  
+* ec2 instance with jenkins with Blue ocean plugin, docker, tidy , hadolint,kubectl and awscli  
 
 ###### How to run
 * create pipline in blue ocean by linking this github repo
